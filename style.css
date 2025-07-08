@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: #00ff99;
+  font-family: monospace;
+  font-size: 16px;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  color: #ff66cc;
+}
+
+a {
+  color: #66ccff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.post {
+  border-top: 1px dotted #444;
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+.footer {
+  margin-top: 50px;
+  color: #888;
+  font-size: 14px;
+}
