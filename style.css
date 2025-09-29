@@ -14,7 +14,8 @@ body {
 
 h1,
 h2 {
-  color: #ff66cc;
+  /*color: #ff66cc;*/
+  color: red;
 }
 
 a {
