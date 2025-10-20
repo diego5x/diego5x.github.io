@@ -1,8 +1,8 @@
 body {
-  background-color: black;
-  color: #eee;
+  background-color: #d7d7d7;
+  color: #000;
   font-family: monospace;
-  font-size: 16px;
+  font-size: 18px;
   margin: 0;
   padding: 20px;
 }
@@ -15,12 +15,11 @@ body {
 h1,
 h2 {
   /*color: #ff66cc;*/
-  color: red;
+  color: black;
 }
 
 a {
-  color: #66ccff;
-  text-decoration: none;
+  color: black;
 }
 
 a:hover {
@@ -40,6 +39,6 @@ ul {
 
 .footer {
   margin-top: 50px;
-  color: #888;
+  color: black;
   font-size: 14px;
 }
