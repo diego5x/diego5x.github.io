@@ -12,6 +12,10 @@ body {
   margin: 0 auto;
 }
 
+.container p {
+  width: 70vw;
+}
+
 h1,
 h2 {
   /*color: #ff66cc;*/
