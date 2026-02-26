@@ -2,7 +2,8 @@ const routes = {
   "/": "index.html",
   "/contact": "/pages/contact.html",
   "/rices": "/pages/rices.html",
-  "/uses": "/pages/uses.html"
+  "/uses": "/pages/uses.html",
+  "/pubkey": "/key/pubkey.txt"
 };
 
 async function router() {
