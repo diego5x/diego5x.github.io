@@ -1,5 +1,10 @@
+:root {
+  --main-bg-color: #171f25;
+  --container-bg-color: #171f25;
+}
+
 body {
-  background-color: #252422;
+  background-color: var(--main-bg-color);
   color: #ccc5b9;
   font-family: monospace;
   font-size: 18px;
@@ -14,9 +19,9 @@ body {
   max-width: 900px;
   width: 100%;
   padding: 30px;
-  background-color: #403d39;
+  background-color: var(--container-bg-color);
 
-  border: 2px solid #252422;
+  border: 2px solid var(--container-bg-color);
 }
 
 .container p {
