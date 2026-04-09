@@ -33,7 +33,7 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <script>
-    fetch('assets/post.md')
+    fetch('./assets/post.md')
       .then(res => res.text())
       .then(md => {
         document.getElementById('content').innerHTML = marked.parse(md);
