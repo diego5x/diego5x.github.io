@@ -84,12 +84,6 @@ Depois de instalado, você terá um sistema:
 * Capaz de rodar navegador, vídeos, editores de texto e até alguns programas mais pesados
 * Pronto para tarefas do dia a dia (estudos, trabalho, navegação, etc.)
 
-## Vale a pena?
-
-Com certeza. Reviver um notebook antigo com Linux Mint não só economiza dinheiro, como também reduz lixo eletrônico e ainda te dá uma máquina funcional novamente.
-
-Em vez de abandonar seu velho companheiro, que tal dar a ele uma segunda chance?
-
 ## Conclusão
 
 Tecnologia não precisa ser descartável. Com escolhas inteligentes, como a instalação de um sistema leve, você pode transformar um notebook antigo em uma ferramenta útil mais uma vez.
@@ -98,7 +92,4 @@ Se você nunca testou Linux antes, essa pode ser a oportunidade perfeita.
 
 ## Referencias 
 [https://www.comoinstalar.com.br/pendrive-bootavel-como-usar-o-rufus/](https://www.comoinstalar.com.br/pendrive-bootavel-como-usar-o-rufus/)
-[https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)Olá, bom dia. Tudo bem? Aqui é Diego da WN Telecom.
-Estou em contato sobre o pedido de suporte ANGELA MARIA PEREIRA BORGES. Neste contato falo com responsável pela conexão?Ficaremos à disposição para qualquer dúvida ou solicitação que possa surgir.
-Nosso suporte técnico está disponível 24h pelo telefone (34) 3512-5500.
-WN Telecom agradece seu contato. Tenha uma boa tarde. 
+[https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
