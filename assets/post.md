@@ -38,10 +38,9 @@ Faça o Download do rufus pelo site [https://rufus.ie/pt_BR/](https://rufus.ie/p
 Faça o Download do linux mint pelo site [https://www.linuxmint.com/](https://www.linuxmint.com/)
 
 * Abra o programa do rufus e selecione o dispositivo(pendrive)
-// foto
-
 * Selecionar o arquivo de ISO do linux mint
-// foto
+  
+<img src="rufus1.png"/>
 
 * Esquema de partição
 Para instalar o Linux Mint em um PC antigo, a opção mais recomendada é utilizar o esquema de partição MBR e o sistema de arquivos FAT32, pois esses padrões garantem compatibilidade com BIOS antigas que não suportam UEFI ou GPT.
@@ -56,23 +55,47 @@ Quando você inicializa o computador a partir do pendrive, o Linux Mint inicia u
 //foto
 
 ## Instalando o Linux Mint no computador
-1. Clique duas vezes em Instalar Linux Mint. 
-2. Selecione seu idioma.
-3. Conecte-se à Internet.
-4. Se você estiver conectado à Internet, marque a caixa para instalar os codecs multimídia.
-5. Escolha um tipo de instalação.
+1. Clique duas vezes em Instalar Linux Mint.
+   
+<img src="mint1.png"/>
+
+3. Selecione seu idioma.
+   
+<img src="mint2.png"/>
+
+5. Conecte-se à Internet.
+   
+<img src="mint3.png"/>
+
+7. Se você estiver conectado à Internet, marque a caixa para instalar os codecs multimídia.
+   
+<img src="mint4.png"/>
+
+9. Escolha um tipo de instalação.
 Se o Linux Mint é o único sistema operacional que você deseja executar neste computador e todos os dados podem ser perdidos no disco rígido, escolha Apagar disco e instalar Linux Mint.
 para mais informações de como realizar um dual boot ou escolher um tipo de particonamento do disco manual verifique a documentação no link
 [https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
-7. Selecione seu fuso horário
-8. Selecione o layout do seu teclado
-9. Insira seus dados de usuário
+
+<img src="mint5.png"/>
+
+11. Selecione seu fuso horário
+    
+<img src="mint6.png"/>
+
+13. Selecione o layout do seu teclado
+    
+<img src="mint7.png"/>
+
+15. Insira seus dados de usuário
 Seu name pode ser seu nome verdadeiro, mas não precisa ser. Ele é usado apenas localmente, no protetor de tela e na tela de login.
 
 Seu username é o que você faz login e seu hostname é o nome do seu computador na rede.
 
 Para evitar bugs, use apenas caracteres minúsculos, sem pontuação ou acentuação.
 Escolha uma senha forte.
+
+<img src="mint8.png"/>
+
 * Quando a instalação estiver concluída, clique em Reinicie agora.
 O computador começará então a desligar e solicitará que você remova o disco USB. Após a reinicialização, seu computador deverá mostrar um menu de inicialização ou iniciar seu sistema operacional Linux Mint recém-instalado.
 
@@ -84,6 +107,24 @@ Depois de instalado, você terá um sistema:
 * Muito mais ágil
 * Capaz de rodar navegador, vídeos, editores de texto e até alguns programas mais pesados
 * Pronto para tarefas do dia a dia (estudos, trabalho, navegação, etc.)
+
+## Comparativo de Windows10 e Linux mint
+
+| Critério                                | Windows 10                                  | Linux Mint                                    |
+| --------------------------------------- | ------------------------------------------- | --------------------------------------------- |
+| **Desempenho geral**                    | Médio a lento (pode travar com multitarefa) | Rápido e fluido na maioria dos casos          |
+| **Uso de RAM (em repouso)**             | Alto (~2 GB ou mais)                        | Baixo (~1–1.2 GB)         |
+| **Velocidade de inicialização**         | Mais lenta (especialmente com HD)           | Mais rápida                                   |
+| **Consumo de disco**                    | Alto (20–30+ GB)                            | Baixo (~10–20 GB)         |
+| **Multitarefa (várias abas/programas)** | Limitada com 4 GB                           | Melhor gerenciamento de memória               |
+| **Atualizações**                        | Pesadas e frequentes (podem deixar lento)   | Mais leves e controláveis                     |
+| **Compatibilidade de programas**        | Excelente (todos os softwares populares)    | Boa, mas alguns programas exigem alternativas |
+| **Jogos**                               | Melhor suporte nativo                       | Limitado (depende de compatibilidade/Wine)    |
+| **Facilidade de uso**                   | Muito fácil (padrão do mercado)             | Fácil, mas exige pequena adaptação            |
+| **Segurança**                           | Precisa antivírus                           | Mais seguro por padrão                        |
+| **Indicado para PC antigo?**            | Funciona, mas pode ficar pesado             | Ideal para hardware limitado                  |
+
+
 
 ## Conclusão
 
