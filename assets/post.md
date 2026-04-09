@@ -1,8 +1,8 @@
-# Revivendo um Notebook Antigo com Linux Mint
+# Revivendo um PC Antigo com Linux Mint
 
-Você tem um notebook antigo encostado, juntando poeira e já considerado “lento demais” para os padrões atuais? Antes de pensar em descartá-lo, saiba que é totalmente possível dar uma nova vida a esse equipamento usando um sistema operacional leve e eficiente: o Linux Mint.
+Você tem um PC antigo encostado, juntando poeira e já considerado “lento demais” para os padrões atuais? Antes de pensar em descartá-lo, saiba que é totalmente possível dar uma nova vida a esse equipamento usando um sistema operacional leve e eficiente: o Linux Mint.
 
-## Por que seu notebook ficou lento?
+## Por que seu PC ficou lento?
 
 Com o passar do tempo, sistemas como Windows tendem a exigir cada vez mais recursos — mais memória, mais processamento, mais armazenamento. Isso faz com que máquinas mais antigas sofram para acompanhar atualizações e softwares modernos.
 
@@ -25,12 +25,12 @@ Além disso, ele consome bem menos recursos do que sistemas tradicionais, sendo 
 
 ## Qual versão escolher?
 
-Para notebooks antigos, o ideal é optar por versões mais leves do Linux Mint:
+Para PC antigos, o ideal é optar por versões mais leves do Linux Mint:
 
 * **XFCE**: a mais leve, perfeita para máquinas com pouca RAM
 * **MATE**: um equilíbrio entre desempenho e visual
 
-Se seu notebook tem menos de 4GB de RAM, vá de XFCE sem medo.
+Se seu PC tem menos de 4GB de RAM, vá de XFCE sem medo.
 
 ## Criando um pendrive bootável do Linux Mint com Rufus
 
@@ -47,7 +47,7 @@ Para instalar o Linux Mint em um PC antigo, a opção mais recomendada é utiliz
 
 ## Agora com o pendrive pronto vamos instalar o Linux Mint
 
-1. Reinicie o notebook e entre no menu de boot geralmente apertando a tecla f2 ou f12 do teclado 
+1. Reinicie o PC e entre no menu de boot geralmente apertando a tecla f2 ou f12 do teclado 
 2. Inicie pelo pendrive
 
 3. Live session 
@@ -127,7 +127,7 @@ Depois de instalado, você terá um sistema:
 
 ## Conclusão
 
-Tecnologia não precisa ser descartável. Com escolhas inteligentes, como a instalação de um sistema leve, você pode transformar um notebook antigo em uma ferramenta útil mais uma vez.
+Tecnologia não precisa ser descartável. Com escolhas inteligentes, como a instalação de um sistema leve, você pode transformar um PC antigo em uma ferramenta útil mais uma vez.
 
 Se você nunca testou Linux antes, essa pode ser a oportunidade perfeita.
 
