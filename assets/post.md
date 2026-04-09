@@ -10,7 +10,7 @@ Mas aqui vai a boa notícia: o problema nem sempre é o hardware, e sim o sistem
 
 ## O que é o Linux Mint?
 
-O (Linux Mint)[https://www.linuxmint.com/] é uma distribuição Linux conhecida por ser leve, estável e muito amigável para iniciantes. Ele oferece uma interface moderna e intuitiva, semelhante ao Windows, o que facilita bastante a adaptação.
+O [Linux Mint](https://www.linuxmint.com/) é uma distribuição Linux conhecida por ser leve, estável e muito amigável para iniciantes. Ele oferece uma interface moderna e intuitiva, semelhante ao Windows, o que facilita bastante a adaptação.
 
 Além disso, ele consome bem menos recursos do que sistemas tradicionais, sendo ideal para computadores mais antigos.
 
@@ -34,8 +34,8 @@ Se seu notebook tem menos de 4GB de RAM, vá de XFCE sem medo.
 
 ## Criando um pendrive bootável do Linux Mint com Rufus
 
-Faça o Download do rufus pelo site (https://rufus.ie/pt_BR/)[https://rufus.ie/pt_BR/]
-Faça o Download do linux mint pelo site (https://www.linuxmint.com/)[https://www.linuxmint.com/]
+Faça o Download do rufus pelo site [https://rufus.ie/pt_BR/](https://rufus.ie/pt_BR/)
+Faça o Download do linux mint pelo site [https://www.linuxmint.com/](https://www.linuxmint.com/)
 
 * Abra o programa do rufus e selecione o dispositivo(pendrive)
 // foto
