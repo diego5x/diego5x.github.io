@@ -51,8 +51,7 @@ Para instalar o Linux Mint em um PC antigo, a opção mais recomendada é utiliz
 2. Inicie pelo pendrive
 
 3. Live session 
-Quando você inicializa o computador a partir do pendrive, o Linux Mint inicia um live session. Ele faz login automaticamente como um usuário chamado mintn e mostra uma área de trabalho com o instalador:live sessionmint
-//foto
+Quando você inicializa o computador a partir do pendrive, o Linux Mint inicia um live session. Ele faz login automaticamente como um usuário chamado mintn e mostra uma área de trabalho com o instalador: live sessionmint
 
 ## Instalando o Linux Mint no computador
 1. Clique duas vezes em Instalar Linux Mint.
