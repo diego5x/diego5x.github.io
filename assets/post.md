@@ -62,10 +62,11 @@ Quando você inicializa o computador a partir do pendrive, o Linux Mint inicia u
 4. Se você estiver conectado à Internet, marque a caixa para instalar os codecs multimídia.
 5. Escolha um tipo de instalação.
 Se o Linux Mint é o único sistema operacional que você deseja executar neste computador e todos os dados podem ser perdidos no disco rígido, escolha Apagar disco e instalar Linux Mint.
-para mais informações de como realizar um dual boot ou escolher um tipo de particonamento do disco manual verifique a documentação no link [https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
-6. Selecione seu fuso horário
-7. Selecione o layout do seu teclado
-8. Insira seus dados de usuário
+para mais informações de como realizar um dual boot ou escolher um tipo de particonamento do disco manual verifique a documentação no link
+[https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
+7. Selecione seu fuso horário
+8. Selecione o layout do seu teclado
+9. Insira seus dados de usuário
 Seu name pode ser seu nome verdadeiro, mas não precisa ser. Ele é usado apenas localmente, no protetor de tela e na tela de login.
 
 Seu username é o que você faz login e seu hostname é o nome do seu computador na rede.
@@ -92,4 +93,5 @@ Se você nunca testou Linux antes, essa pode ser a oportunidade perfeita.
 
 ## Referencias 
 [https://www.comoinstalar.com.br/pendrive-bootavel-como-usar-o-rufus/](https://www.comoinstalar.com.br/pendrive-bootavel-como-usar-o-rufus/)
+
 [https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
