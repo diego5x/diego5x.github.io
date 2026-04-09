@@ -40,7 +40,7 @@ Faça o Download do linux mint pelo site [https://www.linuxmint.com/](https://ww
 * Abra o programa do rufus e selecione o dispositivo(pendrive)
 * Selecionar o arquivo de ISO do linux mint
   
-<img src="rufus1.png"/>
+<img src="../assets/rufus1.png"/>
 
 * Esquema de partição
 Para instalar o Linux Mint em um PC antigo, a opção mais recomendada é utilizar o esquema de partição MBR e o sistema de arquivos FAT32, pois esses padrões garantem compatibilidade com BIOS antigas que não suportam UEFI ou GPT.
@@ -57,34 +57,34 @@ Quando você inicializa o computador a partir do pendrive, o Linux Mint inicia u
 ## Instalando o Linux Mint no computador
 1. Clique duas vezes em Instalar Linux Mint.
    
-<img src="mint1.png"/>
+<img src="../assets/mint1.png"/>
 
 3. Selecione seu idioma.
    
-<img src="mint2.png"/>
+<img src="../assets/mint2.png"/>
 
 5. Conecte-se à Internet.
    
-<img src="mint3.png"/>
+<img src="../assets/mint3.png"/>
 
 7. Se você estiver conectado à Internet, marque a caixa para instalar os codecs multimídia.
    
-<img src="mint4.png"/>
+<img src="../assets/mint4.png"/>
 
 9. Escolha um tipo de instalação.
 Se o Linux Mint é o único sistema operacional que você deseja executar neste computador e todos os dados podem ser perdidos no disco rígido, escolha Apagar disco e instalar Linux Mint.
 para mais informações de como realizar um dual boot ou escolher um tipo de particonamento do disco manual verifique a documentação no link
 [https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
 
-<img src="mint5.png"/>
+<img src="../assets/mint5.png"/>
 
 11. Selecione seu fuso horário
     
-<img src="mint6.png"/>
+<img src="../assets/mint6.png"/>
 
 13. Selecione o layout do seu teclado
     
-<img src="mint7.png"/>
+<img src="../assets/mint7.png"/>
 
 15. Insira seus dados de usuário
 Seu name pode ser seu nome verdadeiro, mas não precisa ser. Ele é usado apenas localmente, no protetor de tela e na tela de login.
@@ -94,7 +94,7 @@ Seu username é o que você faz login e seu hostname é o nome do seu computador
 Para evitar bugs, use apenas caracteres minúsculos, sem pontuação ou acentuação.
 Escolha uma senha forte.
 
-<img src="mint8.png"/>
+<img src="../assets/mint8.png"/>
 
 * Quando a instalação estiver concluída, clique em Reinicie agora.
 O computador começará então a desligar e solicitará que você remova o disco USB. Após a reinicialização, seu computador deverá mostrar um menu de inicialização ou iniciar seu sistema operacional Linux Mint recém-instalado.
