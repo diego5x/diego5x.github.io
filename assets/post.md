@@ -58,34 +58,34 @@ Quando você inicializa o computador a partir do pendrive, o Linux Mint inicia u
    
 <img src="../assets/mint1.png" style="width: 500px;"/>
 
-3. Selecione seu idioma.
+2. Selecione seu idioma.
    
 <img src="../assets/mint2.png" style="width: 500px;"/>
 
-5. Conecte-se à Internet.
+3. Conecte-se à Internet.
    
 <img src="../assets/mint3.png" style="width: 500px;"/>
 
-7. Se você estiver conectado à Internet, marque a caixa para instalar os codecs multimídia.
+4. Se você estiver conectado à Internet, marque a caixa para instalar os codecs multimídia.
    
 <img src="../assets/mint4.png" style="width: 500px;"/>
 
-9. Escolha um tipo de instalação.
+5. Escolha um tipo de instalação.
 Se o Linux Mint é o único sistema operacional que você deseja executar neste computador e todos os dados podem ser perdidos no disco rígido, escolha Apagar disco e instalar Linux Mint.
 para mais informações de como realizar um dual boot ou escolher um tipo de particonamento do disco manual verifique a documentação no link
 [https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html)
 
 <img src="../assets/mint5.png" style="width: 500px;"/>
 
-11. Selecione seu fuso horário
+6. Selecione seu fuso horário
     
 <img src="../assets/mint6.png" style="width: 500px;"/>
 
-13. Selecione o layout do seu teclado
+7. Selecione o layout do seu teclado
     
 <img src="../assets/mint7.png" style="width: 500px;"/>
 
-15. Insira seus dados de usuário
+8. Insira seus dados de usuário
 Seu name pode ser seu nome verdadeiro, mas não precisa ser. Ele é usado apenas localmente, no protetor de tela e na tela de login.
 
 Seu username é o que você faz login e seu hostname é o nome do seu computador na rede.
