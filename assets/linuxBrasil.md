@@ -73,5 +73,5 @@ Mesmo aquelas que já não estão mais ativas deixaram um legado significativo.
 
 As distribuições Linux brasileiras são prova de que inovação não depende apenas de grandes centros tecnológicos globais. Com criatividade, colaboração e propósito, desenvolvedores brasileiros criaram soluções que impactaram milhares de pessoas.
 
-Se você nunca experimentou uma distro nacional, talvez seja a hora de dar uma chance — você pode se surpreender!
+Se você nunca experimentou uma distro nacional, talvez seja a hora de dar uma chance!
 
