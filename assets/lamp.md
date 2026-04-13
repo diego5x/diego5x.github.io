@@ -16,8 +16,6 @@ sudo apt update && sudo apt upgrade -y
 
 # Instalando o Apache
 
-O Apache é um dos servidores web mais usados.
-
 ### Instalação
 
 ```bash
