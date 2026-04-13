@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Guia Completo: Instalar Apache, PHP, Nginx e MySQL no Debian/Ubuntu</title>
+  <style>
+    body {
+      background-color: #171f25;
+      color: #ccc5b9;
+      font-family: monospace;
+      font-size: 18px;
+      margin: 0;
+      min-height: 100vh;
+      
+      display: flex;
+      justify-content: center;
+    }
+
+    #content {
+      max-width: 900px;
+      width: 100%;
+      padding: 30px;
+      background-color: #171f25;
+      
+      border: 2px solid #171f25;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="content">Carregando post...</div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <script>
+    fetch('../assets/lamp.md')
+      .then(res => res.text())
+      .then(md => {
+        document.getElementById('content').innerHTML = marked.parse(md);
+      });
+  </script>
+
+</body>
+</html>
