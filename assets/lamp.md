@@ -35,9 +35,6 @@ Se estiver rodando, acesse no navegador:
 ```
 http://localhost
 ```
-
----
-
 # Instalando o PHP
 
 ### Instalação básica
