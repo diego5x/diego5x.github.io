@@ -40,13 +40,7 @@ Sem a eficiência e a organização proporcionadas pelos gerenciadores de pacote
 
 A transição do modelo manual para os gerenciadores de pacotes modernos representa um salto gigantesco na usabilidade do Linux. A tabela a seguir ilustra as principais diferenças:
 
-| Característica                | Modelo Antigo (Ex: Slackware com Tarballs) | Modelo Moderno (Ex: Debian/Ubuntu com APT) |
-| :---------------------------- | :----------------------------------------- | :------------------------------------------ |
-| **Formato do Pacote**         | Arquivos compactados (`.tar.gz`, `.tgz`)   | Pacotes estruturados (`.deb`, `.rpm`)       |
-| **Resolução de Dependências** | Manual                                     | Automática                                  |
-| **Instalação**                | Manual, muitas vezes via compilação        | Automatizada, via comando único             |
-| **Repositórios**              | Não centralizados ou inexistentes          | Centralizados e bem definidos               |
-| **Facilidade de Uso**         | Alta curva de aprendizado                  | Baixa curva de aprendizado                  |
+<img src="./TABELA.png"/>
 
 Essa evolução permitiu que a instalação de um sistema completo, que antes levava horas ou até dias, fosse reduzida para menos de uma hora, democratizando o acesso e o uso do Linux.
 
