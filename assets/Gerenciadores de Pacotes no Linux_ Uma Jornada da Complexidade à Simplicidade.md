@@ -40,7 +40,7 @@ Sem a eficiência e a organização proporcionadas pelos gerenciadores de pacote
 
 A transição do modelo manual para os gerenciadores de pacotes modernos representa um salto gigantesco na usabilidade do Linux. A tabela a seguir ilustra as principais diferenças:
 
-<img src="./TABELA.png"/>
+<img src="../assets/TABELA.png"/>
 
 Essa evolução permitiu que a instalação de um sistema completo, que antes levava horas ou até dias, fosse reduzida para menos de uma hora, democratizando o acesso e o uso do Linux.
 
