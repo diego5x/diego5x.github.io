@@ -85,8 +85,8 @@ Para aqueles que desejam aprofundar seu entendimento e apreciar a engenharia por
 
 ## Referências
 
-[1]: https://plus.diolinux.com.br/t/o-que-e-um-gerenciador-de-pacotes/36704?utm_source=chatgpt.com "O que é um gerenciador de pacotes? - Diolinux Feed - Diolinux Plus"
-[2]: https://pt.wikipedia.org/wiki/Gerenciador_de_pacotes "Gerenciador de pacotes - Wikipédia"
-[3]: https://sempreupdate.com.br/comparativo-gerenciadores-de-pacotes-linux/?utm_source=chatgpt.com "Comparativo definitivo de gerenciadores de pacotes no Linux: DNF, APT, Pacman e Zypper"
-[4]: https://maisgeek.com/como-os-gerenciadores-de-pacotes-e-instalacao-de-software-funcionam-no-linux/?utm_source=chatgpt.com "▷ Como os gerenciadores de pacotes e instalação de software funcionam no Linux - Mais Geek"
-[5]: https://videohighlight.com/v/iQkBbRPkASo?aiFormatted=false&language=pt-BR&mediaType=youtube&summaryId=73Dw4YkBYn5DH8zt6Dhx&summaryType=default&utm_source=chatgpt.com "Entendendo Pacotes com Slackware | Deb, Apt, Tarbals | YouTube Video Summary – Video Highlight | Video Highlight"
+1. https://plus.diolinux.com.br/t/o-que-e-um-gerenciador-de-pacotes/36704?utm_source=chatgpt.com "O que é um gerenciador de pacotes? - Diolinux Feed - Diolinux Plus"
+2. https://pt.wikipedia.org/wiki/Gerenciador_de_pacotes "Gerenciador de pacotes - Wikipédia"
+3. https://sempreupdate.com.br/comparativo-gerenciadores-de-pacotes-linux/?utm_source=chatgpt.com "Comparativo definitivo de gerenciadores de pacotes no Linux: DNF, APT, Pacman e Zypper"
+4. https://maisgeek.com/como-os-gerenciadores-de-pacotes-e-instalacao-de-software-funcionam-no-linux/?utm_source=chatgpt.com "▷ Como os gerenciadores de pacotes e instalação de software funcionam no Linux - Mais Geek"
+5. https://videohighlight.com/v/iQkBbRPkASo?aiFormatted=false&language=pt-BR&mediaType=youtube&summaryId=73Dw4YkBYn5DH8zt6Dhx&summaryType=default&utm_source=chatgpt.com "Entendendo Pacotes com Slackware | Deb, Apt, Tarbals | YouTube Video Summary – Video Highlight | Video Highlight"
